@@ -52,11 +52,11 @@ If something I made makes your day a little better, you can buy me a coffee. It 
 Salut, moi c'est Tom. Passionné de développement et de jeu vidéo, je crée des **petits outils, des mods et des modules de navigateur** : des choses qui me manquaient, faites pour bien faire une chose, gratuites et libres. J'aimerais un jour monter mon propre studio de jeu vidéo.
 
 - **[Sidetrack](https://addons.mozilla.org/fr/firefox/addon/sidetrack/)** (module Firefox) : des playlists YouTube dans la barre latérale, du blind test seul ou entre amis, des salons pour écouter ensemble.
-- **[Pagemates](https://addons.mozilla.org/fr/firefox/addon/pagemates/)** (module Firefox) : chaque page web devient un salon ; vois qui est là, discute, partage curseurs, surlignages et dessins.
+- **[Pagemates](https://addons.mozilla.org/fr/firefox/addon/pagemates/)** (module Firefox) : chaque page web devient un salon, pour voir qui est là, discuter, partager curseurs, surlignages et dessins.
 - **[MD Lite](https://github.com/tom-tour/md-lite)** (application Windows et Linux) : un lecteur et éditeur Markdown très léger ; double-clic sur un `.md` pour le lire joliment ou le modifier, avec onglets, barre d'outils et coloration du code. Télécharger pour [Windows](https://github.com/tom-tour/md-lite/releases/latest/download/md-lite.exe) ou [Linux](https://github.com/tom-tour/md-lite/releases/latest/download/md-lite-linux-x86_64.tar.gz)
 - **[middle-click-unload](https://github.com/tom-tour/middle-click-unload)** : un clic molette sur un onglet Firefox le décharge au lieu de le fermer.
 - Des **mods de jeux** et d'autres petits outils, faits au fil de l'eau.
 
-Ce que je publie est gratuit, respecte ta vie privée et est libre (GPL-3.0). Si mon travail te plaît, tu peux me [soutenir sur Ko-fi](https://ko-fi.com/tom_t) ☕ : ça me donne plus de soirées pour de nouveaux projets, et ça me rapproche un peu de mon futur studio.
+Ce que je publie est gratuit, respecte la vie privée et est libre (GPL-3.0). Si un de mes projets rend service, un soutien sur [Ko-fi](https://ko-fi.com/tom_t) ☕ me donne plus de soirées pour de nouveaux projets, et me rapproche un peu de mon futur studio.
 
 </details>
