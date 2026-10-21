@@ -23,6 +23,15 @@ I'm passionate about programming and video games. I make **small tools, mods and
 
 </td>
 </tr>
+<tr>
+<td width="72"><img src="https://raw.githubusercontent.com/tom-tour/md-lite/main/icons/icon.png" width="56" alt=""></td>
+<td>
+
+**[MD Lite](https://github.com/tom-tour/md-lite)** (Windows app): a very light Markdown reader and editor. Double-click a `.md` file to read it nicely or edit it, with tabs, a toolbar for every Markdown element and syntax highlighting.<br>
+[![Download for Windows](https://img.shields.io/badge/Windows-Download%20.exe-0969DA?logo=windows&logoColor=white)](https://github.com/tom-tour/md-lite/releases/latest/download/md-lite.exe)
+
+</td>
+</tr>
 </table>
 
 - **[middle-click-unload](https://github.com/tom-tour/middle-click-unload)**: a small Firefox tweak to unload a tab with a middle click instead of closing it.
@@ -43,6 +52,7 @@ Salut, moi c'est Tom. Passionné de développement et de jeu vidéo, je crée de
 
 - **[Sidetrack](https://addons.mozilla.org/fr/firefox/addon/sidetrack/)** (module Firefox) : des playlists YouTube dans la barre latérale, du blind test seul ou entre amis, des salons pour écouter ensemble.
 - **[Pagemates](https://addons.mozilla.org/fr/firefox/addon/pagemates/)** (module Firefox) : chaque page web devient un salon ; vois qui est là, discute, partage curseurs, surlignages et dessins.
+- **[MD Lite](https://github.com/tom-tour/md-lite)** (application Windows) : un lecteur et éditeur Markdown très léger ; double-clic sur un `.md` pour le lire joliment ou le modifier, avec onglets, barre d'outils et coloration du code. [Télécharger](https://github.com/tom-tour/md-lite/releases/latest/download/md-lite.exe)
 - **[middle-click-unload](https://github.com/tom-tour/middle-click-unload)** : un clic molette sur un onglet Firefox le décharge au lieu de le fermer.
 - Des **mods de jeux** et d'autres petits outils, faits au fil de l'eau.
 
