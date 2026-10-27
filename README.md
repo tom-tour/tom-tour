@@ -1,6 +1,6 @@
-### Hi, I'm Tom 👋
+### Hello 👋
 
-I'm passionate about programming and video games. I make **small tools, mods and browser add-ons**: things I wish existed, built to do one thing well, free and open source. One day I'd like to start my own video game studio.
+Passionate about programming and video games. I make **small tools, mods and browser add-ons**: things I wish existed, built to do one thing well, free and open source. One day I'd like to start my own video game studio.
 
 ## 🛠️ Projects
 
@@ -49,7 +49,7 @@ If something I made makes your day a little better, you can buy me a coffee. It 
 <details>
 <summary>🇫🇷 En français</summary>
 
-Salut, moi c'est Tom. Passionné de développement et de jeu vidéo, je crée des **petits outils, des mods et des modules de navigateur** : des choses qui me manquaient, faites pour bien faire une chose, gratuites et libres. J'aimerais un jour monter mon propre studio de jeu vidéo.
+Passionné de développement et de jeu vidéo, je crée des **petits outils, des mods et des modules de navigateur** : des choses qui me manquaient, faites pour bien faire une chose, gratuites et libres. J'aimerais un jour monter mon propre studio de jeu vidéo.
 
 - **[Sidetrack](https://addons.mozilla.org/fr/firefox/addon/sidetrack/)** (module Firefox) : des playlists YouTube dans la barre latérale, du blind test seul ou entre amis, des salons pour écouter ensemble.
 - **[Pagemates](https://addons.mozilla.org/fr/firefox/addon/pagemates/)** (module Firefox) : chaque page web devient un salon, pour voir qui est là, discuter, partager curseurs, surlignages et dessins.
