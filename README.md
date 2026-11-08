@@ -33,6 +33,16 @@ Passionate about programming and video games. I make **small tools, mods and bro
 
 </td>
 </tr>
+<tr>
+<td width="72"><img src="https://raw.githubusercontent.com/tom-tour/forkbay/main/assets/icon.png" width="56" alt=""></td>
+<td>
+
+**[Forkbay](https://github.com/tom-tour/forkbay)** (Windows & Linux app): a Switch 2 emulator manager. Install and update emulators, share keys, firmware and saves between them, browse your games with artwork, add them to Steam and back up your saves to the cloud.<br>
+[![Download for Windows](https://img.shields.io/badge/Windows-Download%20.exe-0969DA?logo=windows&logoColor=white)](https://github.com/tom-tour/forkbay/releases/latest/download/forkbay-windows-x86_64.exe)
+[![Download for Linux](https://img.shields.io/badge/Linux-Download%20.tar.gz-0969DA?logo=linux&logoColor=white)](https://github.com/tom-tour/forkbay/releases/latest/download/forkbay-linux-x86_64.tar.gz)
+
+</td>
+</tr>
 </table>
 
 - **[middle-click-unload](https://github.com/tom-tour/middle-click-unload)**: a small Firefox tweak to unload a tab with a middle click instead of closing it.
@@ -54,6 +64,7 @@ Passionné de développement et de jeu vidéo, je crée des **petits outils, des
 - **[Sidetrack](https://addons.mozilla.org/fr/firefox/addon/sidetrack/)** (module Firefox) : des playlists YouTube dans la barre latérale, du blind test seul ou entre amis, des salons pour écouter ensemble.
 - **[Pagemates](https://addons.mozilla.org/fr/firefox/addon/pagemates/)** (module Firefox) : chaque page web devient un salon, pour voir qui est là, discuter, partager curseurs, surlignages et dessins.
 - **[MD Lite](https://github.com/tom-tour/md-lite)** (application Windows et Linux) : un lecteur et éditeur Markdown très léger ; double-clic sur un `.md` pour le lire joliment ou le modifier, avec onglets, barre d'outils et coloration du code. Télécharger pour [Windows](https://github.com/tom-tour/md-lite/releases/latest/download/md-lite.exe) ou [Linux](https://github.com/tom-tour/md-lite/releases/latest/download/md-lite-linux-x86_64.tar.gz)
+- **[Forkbay](https://github.com/tom-tour/forkbay)** (application Windows et Linux) : un gestionnaire d'émulateurs Switch 2 ; installe et met à jour les émulateurs, partage clés, firmware et sauvegardes entre eux, affiche tes jeux avec leurs images, les ajoute à Steam et sauvegarde dans le cloud. Télécharger pour [Windows](https://github.com/tom-tour/forkbay/releases/latest/download/forkbay-windows-x86_64.exe) ou [Linux](https://github.com/tom-tour/forkbay/releases/latest/download/forkbay-linux-x86_64.tar.gz)
 - **[middle-click-unload](https://github.com/tom-tour/middle-click-unload)** : un clic molette sur un onglet Firefox le décharge au lieu de le fermer.
 - Des **mods de jeux** et d'autres petits outils, faits au fil de l'eau.
 
